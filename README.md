@@ -8,4 +8,12 @@
 </table>
   
 [<img src="img/play-store.png" width="250px"/>](https://play.google.com/store/apps/details?id=com.pointerlabs.brainbox)
+
+## Banner
 <img src="img/banner.jpg" align="center"/>
+
+### Screenshot
+| | | |
+|:---:|:---:|:---:|
+|<img src="img/BrainBox (2).png" width="271px" align="left">|<img src="img/BrainBox (3).png" width="271px" align="left">|<img src="img/BrainBox (4).png" width="271px" align="left">|
+|<img src="img/BrainBox (5).png" width="271px" align="left">|<img src="img/BrainBox (6).png" width="271px" align="left">|<img src="img/BrainBox (7).png" width="271px" align="left">|
