@@ -17,3 +17,10 @@
 |:---:|:---:|:---:|
 |<img src="img/BrainBox (2).png" width="271px" align="left">|<img src="img/BrainBox (3).png" width="271px" align="left">|<img src="img/BrainBox (4).png" width="271px" align="left">|
 |<img src="img/BrainBox (5).png" width="271px" align="left">|<img src="img/BrainBox (6).png" width="271px" align="left">|<img src="img/BrainBox (7).png" width="271px" align="left">|
+
+### My Contribution To This App
+* Done everything except the game engine.
+* Made some changes to game engine according to our condition.
+* Inhance the game engine feature.
+* Designed all the UI with code.
+
